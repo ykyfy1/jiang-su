@@ -50,6 +50,10 @@ http://ipipip/rtp/239.49.8.120:8000
 http://ipipip/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-id="1" tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.com/tv/江苏优漫卡通.png" group-title="卫视高清",江苏优漫卡通
 http://ipipip/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="1" tvg-name="无锡新闻综合" tvg-logo="https://live.fanmingming.com/tv/无锡新闻综合.png" group-title="卫视高清",无锡新闻综合
+http://ipipip/rtp/239.49.1.77:8000
+#EXTINF:-1 tvg-id="1" tvg-name="无锡都市资讯" tvg-logo="https://live.fanmingming.com/tv/无锡都市资讯.png" group-title="卫视高清",无锡都市资讯
+http://ipipip/rtp/239.49.1.78:8000
 #EXTINF:-1 tvg-id="1" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="卫视高清",文物宝库
 http://ipipip/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="1" tvg-name="沛县新闻综合" tvg-logo="https://live.fanmingming.com/tv/沛县新闻综合.png" group-title="卫视高清",沛县新闻综合
@@ -62,7 +66,7 @@ http://ipipip/rtp/239.49.8.193:8000
 http://ipipip/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影院高清",都市剧场
 http://ipipip/rtp/239.49.8.45:8044
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影院高清",欢笑剧场
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://live.fanmingming.com/tv/多彩文体.png" group-title="影院高清",多彩文体
 http://ipipip/rtp/239.49.8.106:8000
 #EXTINF:-1 tvg-id="1" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="卫视高清",中国教育1台
 http://ipipip/rtp/239.49.8.115:8000
